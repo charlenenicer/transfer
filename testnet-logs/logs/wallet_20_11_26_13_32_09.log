@@ -1,0 +1,90 @@
+I 2020-11-26.13:32:09.827 Beam Wallet 5.1.9763 (testnet)
+I 2020-11-26.13:32:09.827 Rules signature: 0-cfa9cf691cfe775a, 270910-5659082bdd875319, 690000-e69e1e2698b23975
+I 2020-11-26.13:32:09.827 starting a wallet...
+I 2020-11-26.13:32:14.680 wallet sucessfully opened...
+D 2020-11-26.13:32:14.680 Async update started!
+I 2020-11-26.13:32:14.683 WalletID 29c8e7992fc3d13529cf87e4f53001ebb6c580a8498526c4577c7eb4d9423cd9b74 subscribes to BBS channel 668
+I 2020-11-26.13:32:14.683 WalletID 20b0bff12e024d55a0b944940f064d62862bd2feec94bd76060030f4f1ca366cc00 subscribes to BBS channel 523
+D 2020-11-26.13:32:14.683 Async update finished!
+I 2020-11-26.13:32:14.690 It seems that last known blockchain tip is not up to date
+I 2020-11-26.13:32:14.693 It seems that last known blockchain tip is not up to date
+I 2020-11-26.13:32:15.749 Sync up to 916100-5a6279e8a945d2f2
+I 2020-11-26.13:32:15.749 Synchronizing with node: 0% (0/1)
+I 2020-11-26.13:32:15.824 Synchronizing with node: 100% (1/1)
+I 2020-11-26.13:32:15.824 Current state is 916100-5a6279e8a945d2f2
+D 2020-11-26.13:32:15.824 Async update started!
+I 2020-11-26.13:32:15.825 [bf119b5537c04f7e9ffeb3ccd501c798] Receiving 9 BEAMs 99999900 GROTH (fee: 100 GROTH)
+I 2020-11-26.13:32:15.862 [aa7e7403a2434bacb2a6b10fb30e71c3][1] Get proof for kernel: 56cfaacb9bb0747a
+I 2020-11-26.13:32:15.863 [857a4ccf2d21480d80e5840337a07714] Receiving 9 BEAMs 99999900 GROTH (fee: 100 GROTH)
+D 2020-11-26.13:32:15.897 Async update finished!
+D 2020-11-26.13:32:15.989 Async update started!
+I 2020-11-26.13:32:15.989 [aa7e7403a2434bacb2a6b10fb30e71c3] Transaction expired. Last unconfirmeed height: 916100, max kernel height: 886093
+E 2020-11-26.13:32:15.989 [aa7e7403a2434bacb2a6b10fb30e71c3] Failed. Transaction timed out
+I 2020-11-26.13:32:15.989 [aa7e7403a2434bacb2a6b10fb30e71c3] Transaction failed. Rollback...
+D 2020-11-26.13:32:15.990 Async update finished!
+I 2020-11-26.13:32:15.990 Synchronizing with node: 100% (1/1)
+I 2020-11-26.13:32:15.990 Current state is 916100-5a6279e8a945d2f2
+D 2020-11-26.13:32:15.991 Async update started!
+D 2020-11-26.13:32:15.991 Async update finished!
+D 2020-11-26.13:32:15.992 Async update started!
+I 2020-11-26.13:32:15.992 [bf119b5537c04f7e9ffeb3ccd501c798] Transaction accepted. Kernel: a16fdb6d51f56c36de91e3885d86f6d39e9be3d5fd293becce6efb4015a54318
+I 2020-11-26.13:32:15.995 [bf119b5537c04f7e9ffeb3ccd501c798][1] Get proof for kernel: a16fdb6d51f56c36
+D 2020-11-26.13:32:15.995 Async update finished!
+D 2020-11-26.13:32:15.995 Async update started!
+D 2020-11-26.13:32:15.995 Async update finished!
+D 2020-11-26.13:32:15.996 Async update started!
+I 2020-11-26.13:32:15.996 [857a4ccf2d21480d80e5840337a07714] Transaction accepted. Kernel: e8a25b5a85d3669063ddd893685e6a7dfc10c686f5b88dae3c3b6e57a89f44bc
+I 2020-11-26.13:32:15.998 [857a4ccf2d21480d80e5840337a07714][1] Get proof for kernel: e8a25b5a85d36690
+D 2020-11-26.13:32:15.998 Async update finished!
+I 2020-11-26.13:32:15.998 Synchronizing with node: 50% (1/2)
+D 2020-11-26.13:32:15.999 Async update started!
+D 2020-11-26.13:32:15.999 Async update finished!
+I 2020-11-26.13:32:15.999 Synchronizing with node: 100% (2/2)
+I 2020-11-26.13:32:15.999 Current state is 916100-5a6279e8a945d2f2
+D 2020-11-26.13:32:15.999 Async update started!
+D 2020-11-26.13:32:15.999 Async update finished!
+I 2020-11-26.13:33:25.939 Sync up to 916101-743b51dd6dac5d85
+I 2020-11-26.13:33:25.939 Synchronizing with node: 0% (0/1)
+I 2020-11-26.13:33:25.939 Synchronizing with node: 100% (1/1)
+I 2020-11-26.13:33:25.939 Current state is 916101-743b51dd6dac5d85
+D 2020-11-26.13:33:25.939 Async update started!
+I 2020-11-26.13:33:25.939 [857a4ccf2d21480d80e5840337a07714][1] Get proof for kernel: e8a25b5a85d36690
+I 2020-11-26.13:33:25.940 [bf119b5537c04f7e9ffeb3ccd501c798][1] Get proof for kernel: a16fdb6d51f56c36
+D 2020-11-26.13:33:25.940 Async update finished!
+I 2020-11-26.13:33:25.940 Synchronizing with node: 50% (1/2)
+D 2020-11-26.13:33:25.941 Async update started!
+D 2020-11-26.13:33:25.941 Async update finished!
+I 2020-11-26.13:33:25.941 Synchronizing with node: 100% (2/2)
+I 2020-11-26.13:33:25.941 Current state is 916101-743b51dd6dac5d85
+D 2020-11-26.13:33:25.941 Async update started!
+D 2020-11-26.13:33:25.941 Async update finished!
+I 2020-11-26.13:33:30.752 Sync up to 916102-61c6636e8406cdee
+I 2020-11-26.13:33:30.752 Synchronizing with node: 0% (0/1)
+I 2020-11-26.13:33:30.752 Synchronizing with node: 100% (1/1)
+I 2020-11-26.13:33:30.752 Current state is 916102-61c6636e8406cdee
+D 2020-11-26.13:33:30.752 Async update started!
+I 2020-11-26.13:33:30.753 [bf119b5537c04f7e9ffeb3ccd501c798][1] Get proof for kernel: a16fdb6d51f56c36
+I 2020-11-26.13:33:30.753 [857a4ccf2d21480d80e5840337a07714][1] Get proof for kernel: e8a25b5a85d36690
+D 2020-11-26.13:33:30.753 Async update finished!
+I 2020-11-26.13:33:30.754 Synchronizing with node: 50% (1/2)
+D 2020-11-26.13:33:30.754 Async update started!
+D 2020-11-26.13:33:30.754 Async update finished!
+I 2020-11-26.13:33:30.754 Synchronizing with node: 100% (2/2)
+I 2020-11-26.13:33:30.754 Current state is 916102-61c6636e8406cdee
+D 2020-11-26.13:33:30.754 Async update started!
+D 2020-11-26.13:33:30.754 Async update finished!
+I 2020-11-26.13:34:09.755 Sync up to 916103-4a2ab7a2664e0d4f
+I 2020-11-26.13:34:09.755 Synchronizing with node: 0% (0/1)
+I 2020-11-26.13:34:09.755 Synchronizing with node: 100% (1/1)
+I 2020-11-26.13:34:09.755 Current state is 916103-4a2ab7a2664e0d4f
+D 2020-11-26.13:34:09.755 Async update started!
+I 2020-11-26.13:34:09.756 [857a4ccf2d21480d80e5840337a07714][1] Get proof for kernel: e8a25b5a85d36690
+I 2020-11-26.13:34:09.756 [bf119b5537c04f7e9ffeb3ccd501c798][1] Get proof for kernel: a16fdb6d51f56c36
+D 2020-11-26.13:34:09.756 Async update finished!
+I 2020-11-26.13:34:09.757 Synchronizing with node: 50% (1/2)
+D 2020-11-26.13:34:09.757 Async update started!
+D 2020-11-26.13:34:09.757 Async update finished!
+I 2020-11-26.13:34:09.757 Synchronizing with node: 100% (2/2)
+I 2020-11-26.13:34:09.757 Current state is 916103-4a2ab7a2664e0d4f
+D 2020-11-26.13:34:09.757 Async update started!
+D 2020-11-26.13:34:09.757 Async update finished!
