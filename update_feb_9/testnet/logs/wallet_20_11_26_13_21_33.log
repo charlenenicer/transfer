@@ -1,5 +1,0 @@
-I 2020-11-26.13:21:33.137 Beam Wallet 5.1.9763 (testnet)
-I 2020-11-26.13:21:33.137 Rules signature: 0-cfa9cf691cfe775a, 270910-5659082bdd875319, 690000-e69e1e2698b23975
-I 2020-11-26.13:21:39.733 Applying PRAGMA cipher_migrate...
-D 2020-11-26.13:21:40.657 sqlite error code=26, file is not a database
-E 2020-11-26.13:21:40.657 Please check your password. If password is lost, restore wallet.db from latest backup or delete it and restore from seed phrase.

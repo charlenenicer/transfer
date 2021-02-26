@@ -1,9 +1,0 @@
-I 2021-01-20.19:48:56.118 removing old log file "/home/charlene/testnet/logs/node_20_10_29_00_23_42.log"
-I 2021-01-20.19:48:56.118 removing old log file "/home/charlene/testnet/logs/node_20_10_29_00_15_05.log"
-I 2021-01-20.19:48:56.118 removing old log file "/home/charlene/testnet/logs/node_20_10_29_00_05_57.log"
-I 2021-01-20.19:48:56.118 removing old log file "/home/charlene/testnet/logs/node_20_10_29_00_09_46.log"
-I 2021-01-20.19:48:56.119 Beam Node 5.1.9763 (testnet)
-I 2021-01-20.19:48:56.119 Rules signature: 0-cfa9cf691cfe775a, 270910-5659082bdd875319, 690000-e69e1e2698b23975
-I 2021-01-20.19:48:56.602 starting a node on 11000 port...
-I 2021-01-20.19:49:01.604 Node stopping...
-I 2021-01-20.19:49:01.604 Node stopped
